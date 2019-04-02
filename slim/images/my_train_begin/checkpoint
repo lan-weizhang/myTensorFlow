@@ -1,0 +1,3 @@
+model_checkpoint_path: "D:/Tensorflow/slim/images/my_train_begin\\model.ckpt-16"
+all_model_checkpoint_paths: "D:/Tensorflow/slim/images/my_train_begin\\model.ckpt-0"
+all_model_checkpoint_paths: "D:/Tensorflow/slim/images/my_train_begin\\model.ckpt-16"

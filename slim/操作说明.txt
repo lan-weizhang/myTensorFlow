@@ -1,0 +1,4 @@
+数据格式转换	convert_data.bat
+从头开始训练	train_from_begin.bat
+训练		train.bat
+测试模型结果	evaluate.bat

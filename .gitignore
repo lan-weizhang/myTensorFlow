@@ -1,0 +1,16 @@
+*.mp4
+*.jpg
+/models-master
+*.tgz
+*.gz
+*.rar
+*.exe
+*.tfrecord
+*.zip
+*model.ckpt*
+/inception_model
+/download_images
+/观看视频
+*jpg_inception_v3.txt
+*.ckpt
+*.pb

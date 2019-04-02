@@ -1,0 +1,13 @@
+﻿*~*
+**/.ipynb_checkpoints/*
+*/.idea/*
+.ipynb_checkpoints/*
+inception_model/*
+logs/inception_log/*
+cifar-10-python.tar.gz
+cifar-10-batches-py/*
+captcha/*
+slim/*
+.idea/*
+nets/__pycache__/*
+*/__pycache__/*
